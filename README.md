@@ -20,6 +20,6 @@ We tested different models, with different datasets and hyperparameters.
 The model was evaluated using the f1_score metric.   
 The best scores in the competition in the public leaderboard (calculated using approximately 30% of the test data) and private leaderboard (calculated using approximately 70% of the test data) were of 0.74545 and 0.70545, respectively.  
    
-In both leaderboards we were able to get the 5th best scores: 0.73096 in the public leaderboard and 0.69158 in the private. 
+In both leaderboards we were able to get the 5th best scores: 0.73096 in the public leaderboard and 0.69158 in the private leaderboard. 
 
 *We could only use models from Scikit-learn.
