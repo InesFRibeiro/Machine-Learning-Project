@@ -12,7 +12,7 @@
 \- Vasco Pombo  
        
 ### Description
-This project consisted of a kaggle competition. The goal was to build a predictive model that answered the question “Which customers are more likely to buy our products?” (binary classification problem) using the small quantity of data accessible from the customers data base that contains general information about the customers and their behaviour in the website.   
+This project consisted of a kaggle competition. The goal was to build a predictive model that answered the question “Which customers are more likely to buy our products?” (binary classification problem) using the small quantity of data accessible from the customers database that contained general information about the customers and their behaviour in the website.   
 
 We started by doing data pre-processing, feature selection, creating dummy variables (one hot encoding), balancing the dataset, scaling, feature engineering.
 Later, several algorithms were used to try to build a good model. Some of the algorithms include RandomForests, Neural Networks, GradientBoost, AdaBoost and VotingClassifier.   
