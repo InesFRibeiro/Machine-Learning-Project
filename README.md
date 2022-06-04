@@ -23,4 +23,4 @@ The best scores in the competition in the public leaderboard (calculated using a
    
 In both leaderboards we were able to get the 5th best scores: 0.73096 in the public leaderboard and 0.69158 in the private. 
 
-* We could only use models from Scikit-learn.
+*We could only use models from Scikit-learn.
