@@ -22,7 +22,7 @@ In both leaderboards we were able to get the 5th best scores: 0.73096 in the pub
     
 **Group Members:**   
 \- Inês Ribeiro (https://github.com/InesFRibeiro)   
-\- Afonso Gonçalves (https://github.com/afonsocmg1)
+\- Afonso Gonçalves (https://github.com/afonsocmg1)    
 \- José Dias (https://github.com/josedias97)     
 \- Matias Neves (https://github.com/HitGobba)      
 \- Vasco Pombo (https://github.com/vascopombo)
